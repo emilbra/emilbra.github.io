@@ -21,7 +21,7 @@
 title: Emil Brasø
 email: emil@brasoe.no
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal site for Emil Brasø. Tech Tips, insights or other nerdy stuff will be shared here.
+  Personal blog for Emil Brasø. Tech Tips, insights or other nerdy stuff may be shared here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.brasoe.no" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bras_emil
