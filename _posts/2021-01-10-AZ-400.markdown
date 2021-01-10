@@ -6,4 +6,4 @@ categories: Study Notes
 ---
 While im studying for certifications, my notes will go here
 test for including an image:
-![testIMG](/assets/images/test.png)
+![testIMG](/_assets/images/test.png)
