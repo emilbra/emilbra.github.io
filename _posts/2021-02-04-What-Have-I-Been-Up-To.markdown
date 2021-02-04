@@ -42,5 +42,5 @@ I was asked to hold a little presentation for students in the student organizati
 
 ## Got kind of addicted to Warzone
 
-Me and some friends from NTNU recently started playing COD: WarZone. Its fun, but when i start playing times goes way faster than what it does when i do something i should be doing.
+Me and some friends from NTNU recently started playing COD: WarZone. Its fun, but when i start playing time goes way faster than what it does when i do something i should be doing.
 "*im not addicted, i swear*"
