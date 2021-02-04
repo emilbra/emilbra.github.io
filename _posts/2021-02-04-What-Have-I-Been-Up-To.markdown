@@ -26,7 +26,7 @@ I have not yet began reading the powershell ones, even though i have been been p
 
 A discussion about allowing external stakeholders to our Azure DevOps Project started some days ago. A key question was "what" and "how" we expect them to collaborate with us.
 I immediately wanted to make our process of getting orders more effective by giving the stakeholders a way to create work items (i.e Epics, User stories, etc) by way of Automation. So i started to explore if PowerShell was suitable for the tasks, and at this time I DO have a lead. Wether or not it pans out for our use case and environment remains to see and could deserve its own post.
-.. Its a different question entirely if this even would bring business value (but i like to try new thinsg, so its a "*win-slightchanceofWin* situation for me")
+.. Its a different question entirely if this even would bring business value (but i like to try new things, so its a "*win-slightchanceofWin* situation for me")
 
 ## Explored ARM Templates and will be holding an Introduction to Infrastructure-as-Code
 
