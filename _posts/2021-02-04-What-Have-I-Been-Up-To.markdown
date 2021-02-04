@@ -16,21 +16,21 @@ A lot of things are happening. Not really much to say about the work itself, exc
 I recently purchased some books:
 
 - Microsoft Azure by Soh, Copeland, Puca and Harris
-- Learn Powershell & Lean Powershell Scripting by Jones Hicks.
+- Learn Powershell & Learn Powershell Scripting by Jones Hicks.
 
 I think "Microsoft Azure" reads well, and gives a neat introduction to many concepts and services of Azure. It does however seem to be a little unfinished. Some words are spelled wrong and some sentences does not appear to make much sense. Its worse with the images. Many of them are compressed and straight down unreadable as they are in the book.
 But I still think the book is worth to read for anyone wishing to get a structured introduction to Azure, or simply want a refresher, as was the case for me.
-I have not yet began reading the powershell ones, even tough i have been been playing with some scripting.
+I have not yet began reading the powershell ones, even though i have been been playing with some scripting.
 
 ## Explored PowerShell  
 
-An discussion about allowing external stakeholders to our Azure DevOps Project started some days ago. A key question was "what" and "how" we expect them to collaborate with us.
+A discussion about allowing external stakeholders to our Azure DevOps Project started some days ago. A key question was "what" and "how" we expect them to collaborate with us.
 I immediately wanted to make our process of getting orders more effective by giving the stakeholders a way to create work items (i.e Epics, User stories, etc) by way of Automation. So i started to explore if PowerShell was suitable for the tasks, and at this time I DO have a lead. Wether or not it pans out for our use case and environment remains to see and could deserve its own post.
 
 ## Explored ARM Templates and will be holding an Introduction to Infrastructure-as-Code
 
 ARM Templates is something i have discussed before in a blog post on medium <https://medium.com/sopra-steria-norge/use-azure-policies-and-arm-templates-to-control-your-azure-environment-4c1896908064>
-I think its a great tool and show how "as-Code" can be used in modern environments. I wont cover it here just yet, look at the medium post instead. I spent some time these weeks to learn about Terraform, and a little about Azure Bicep. These are definitively things i want to explore further when i have the opportunity
+I think its a great tool and show how "as-Code" can be used in modern environments. I wont cover it here just yet, look at the medium post instead. I spent some time these weeks to learn about Terraform, and a little about Azure Bicep. These are definitively things i want to explore further when i have the opportunity.
 
 ### Speaking of the medium post
 
