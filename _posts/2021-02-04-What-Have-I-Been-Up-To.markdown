@@ -26,6 +26,7 @@ I have not yet began reading the powershell ones, even though i have been been p
 
 A discussion about allowing external stakeholders to our Azure DevOps Project started some days ago. A key question was "what" and "how" we expect them to collaborate with us.
 I immediately wanted to make our process of getting orders more effective by giving the stakeholders a way to create work items (i.e Epics, User stories, etc) by way of Automation. So i started to explore if PowerShell was suitable for the tasks, and at this time I DO have a lead. Wether or not it pans out for our use case and environment remains to see and could deserve its own post.
+.. Its a different question entirely if this even would bring business value (but i like to try new thinsg, so its a "*win-slightchanceofWin* situation for me")
 
 ## Explored ARM Templates and will be holding an Introduction to Infrastructure-as-Code
 
@@ -38,9 +39,9 @@ The post on medium went well for my first post of that format. At the time of wr
 
 ### Holding an introduction to IaC
 
-I was asked to hold a little presentation for students in the student organization i was a part of. I asked around a little and found that most had heard of but not used IaC before, so i decided to run with that. Now me and a colleague are preparing some slides and some code to showcase IaC. Its fun, and we have kind of free reins when it comes to the presentation
+I was asked to hold a little presentation for students in the student organization i was a part of. I asked around a little and found that most had heard of but not used IaC before, so i decided to run with that. Now me and a colleague are preparing some slides and some code to showcase IaC. Its fun, and we have kind of free reins when it comes to the presentation itself.
 
 ## Got kind of addicted to Warzone
 
-Me and some friends from NTNU recently started playing COD: WarZone. Its fun, but when i start playing time goes way faster than what it does when i do something i should be doing.
+Me and some friends from NTNU recently started playing COD: WarZone. Its great, but when i start playing time goes way faster than what it does when i do something i should be doing.
 "*im not addicted, i swear*"
